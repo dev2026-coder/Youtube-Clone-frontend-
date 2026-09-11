@@ -110,5 +110,11 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
+## Deploy links 
+🔗[Light theme](https://youtube-clone-light-theme.netlify.app/ )
+🔗[Dark theme](https://youtube-dark-theme-clone.netlify.app/)
+
+---
+
 ⭐️ If you like this project, consider giving it a star on GitHub!
 
