@@ -1,0 +1,36 @@
+.category-bar{
+display:flex;
+gap:8px;
+position:fixed;
+top:67px;
+left:72px;
+height:35px;
+right:0px;
+color:red;
+background-color:black;
+justify-content:space-between;
+align-items:center;
+flex-shrink:0;
+z-index:100;
+
+}
+.suggestion{
+    white-space:nowrap;
+    background-color: rgba(255, 255, 255, 0.15);
+    color:white;
+    padding-left:12px;
+    padding-right: 12px;
+    padding-top:6px;
+    padding-bottom:6px;
+    border-radius:10px;
+    font-family:Roboto,Arial;
+    font-size:14px;
+    font-weight:500;
+    
+}
+@media(min-width:1000px){
+    .category-bar{
+    padding-left:100px;
+    }
+    
+}
